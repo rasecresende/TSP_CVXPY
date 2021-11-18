@@ -34,8 +34,6 @@ constraints = [
                u[0] == 1
 ]
 
-
-# I just copied those constraints (no idea what they mean)
 # means that the salesman only passes through each city once
 
 for i in range(len(A)):
